@@ -1,0 +1,14 @@
+{
+  "name": "youtube-data-api-public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "googleapis": "^27.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC"
+}
